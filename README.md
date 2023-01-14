@@ -9,7 +9,7 @@
 
 <br />
 
-- A software engineer, who wants to grow consistently.
+- A software engineer, who wants to grow consistently
 - A Front-end Developer
 - Currently working for [Channel](https://channel.io/)
 
