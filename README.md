@@ -11,7 +11,6 @@
 
 - A software engineer, who wants to grow consistently
 - A Front-end Developer
-- Currently working for [Channel](https://channel.io/)
 
 <br />
 <img src="https://github.com/guswnsxodlf/guswnsxodlf/blob/main/assets/line.gif">
